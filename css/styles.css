@@ -1,0 +1,32 @@
+.sidebar {
+    width: 500px;
+    length: 1000px;
+    float: left;
+    border padding: ;
+    : black;
+}
+
+.sidebar {
+    width: 40%;
+    float: right;
+    font-size: large;
+    background-color: coral;
+}
+
+.sidebar2 {
+    font-size: large;
+    font-weight: bolder;
+    background-color: black;
+    color: blanchedalmond;
+    column-width: 10000px;
+    column-length: 1000px;
+}
+
+.main {
+    width: 60%;
+    float: left;
+}
+
+.pics2 {
+    float: right;
+}
